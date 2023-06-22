@@ -1,0 +1,41 @@
+#diffimages{
+    border:solid 1px rgb(0, 0, 0);
+    height:290px ;
+    display: flex;
+}
+#homepage{
+    height: 250px;
+    width: 390px;
+}
+#box1,#box2,#box3,#box4{
+    border:solid 1px rgb(214, 7, 7);
+    height:290px;
+    width:420px;
+}
+#figcap{
+    text-align:center;
+    font-size:23px;
+    color:rgb(108,29,29);
+    text-shadow:1px 1px 1px rgb(148,150,162);
+
+}
+
+#titlename{
+    border:solid 1px rgb(66, 18, 114);
+    height:60px;
+    line-height:50px;
+    text-align:center;
+}
+#wedding,#birthday,#reception,#house{
+    border:solid 1px black;
+    height:200px;
+   
+    
+}
+#imgscroll{
+    height:290px;
+    /* width:290px; */
+}
+#heading{
+    font-size: 50px;
+}

@@ -1,0 +1,64 @@
+body{
+    background-image:url(camera.jpg);
+    background-repeat:no-repeat;
+    background-size:2000px 1000px;
+    background-attachment: scroll ;
+    }
+    #nav{
+        border:solid 1px rgba(6,6,6,0.946);
+        height:50px;
+}
+#name{
+    border:solid 1px rgb(10,10,10);
+    height:700px; 
+}
+#scroll{
+    border:solid 1px rgb(10,10,10);
+    height:80px;
+
+}
+#scrolling{
+    color:rgb(6,158,158);
+    font-size:65pX ;
+    background-color:rgba(0,0,0,0.399);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow:5px 5px 5px rgb(236,161,161),10px 10px 10px rgb(185,24,24);
+}
+#names{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow:5px 5px 10px rgba(0,0,0,0.483);
+    font-size:50px;
+    text-align:center;
+    
+    padding-top: 55px;
+}
+#nav ul{
+    list-style:none;
+    margin: 0px;
+    padding: 0px;
+}
+#nav ul li{
+    border:solid 1px black;
+    width:259px;
+    height:50px;
+    background-color:rgba(0,0,0,0.446);
+    float:left;
+    text-align:center;
+    line-height:40px;
+}
+#nav ul li a{
+    text-decoration:none;
+    font-size:40px;
+    color:rgba(255,255,255,0.799);
+}
+#nav ul li ul li{
+    display:none;
+}
+#nav ul li:hover ul li{
+    display:block;
+}
+
+
+    
+
+    
